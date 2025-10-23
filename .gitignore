@@ -1,0 +1,7 @@
+target/
+**/*.rs.bk
+.DS_Store
+
+# Agent and AI assistant files
+AGENTS.md
+SPECIFICATIONS.md
